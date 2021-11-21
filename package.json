@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "parcel": "^2.0.1",
+    "@parcel/transformer-sass": "^2.0.1"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryhanna/nft-preview-card-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryhanna/nft-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/barryhanna/nft-preview-card-component#readme",
+  "description": ""
+}
