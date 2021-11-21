@@ -1,7 +1,6 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {},
   "scripts": {
     "start": "parcel index.html",
