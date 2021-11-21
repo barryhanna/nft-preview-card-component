@@ -70,6 +70,15 @@ p {
   align-items: center;
 }
 
+.card--details > span {
+  display: flex;
+  align-items: center;
+}
+
+.card--details img {
+  margin-right: 0.35rem;
+}
+
 .card--details-ethereum {
   color: var(--clr-primary-cyan);
 }

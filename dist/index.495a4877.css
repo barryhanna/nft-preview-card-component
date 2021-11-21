@@ -29,6 +29,12 @@ body {
   min-height: 100vh;
 }
 
+h1 {
+  text-align: center;
+  color: var(--clr-white);
+  margin: 2rem;
+}
+
 p {
   color: var(--clr-primary-blue-soft);
 }
@@ -58,6 +64,15 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.card--details > span {
+  display: flex;
+  align-items: center;
+}
+
+.card--details img {
+  margin-right: 0.35rem;
 }
 
 .card--details-ethereum {
