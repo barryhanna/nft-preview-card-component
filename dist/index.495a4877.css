@@ -1,0 +1,26 @@
+:root {
+  --clr-primary-blue-soft: hsl(215 51% 70%);
+  --clr-primary-cyan: hsl(178 100% 50%);
+  --clr-blue-dark: hsl(215 32% 27%);
+  --clr-blue-darker: hsl(216 50% 16%);
+  --clr-blue-darkest: hsl(217 54% 11%);
+  --clr-white: hsl(0 0% 100%);
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+}
+/*# sourceMappingURL=index.495a4877.css.map */
