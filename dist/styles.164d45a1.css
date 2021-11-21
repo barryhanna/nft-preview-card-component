@@ -1,14 +1,10 @@
 :root {
-  // Colours
   --clr-primary-blue-soft: hsl(215 51% 70%);
   --clr-primary-cyan: hsl(178 100% 50%);
-
   --clr-blue-dark: hsl(215 32% 27%);
   --clr-blue-darker: hsl(216 50% 16%);
   --clr-blue-darkest: hsl(217 54% 11%);
-
   --clr-white: hsl(0 0% 100%);
-
   --clr-card-bg: var(--clr-blue-darker);
   --clr-line: var(--clr-blue-dark);
 }
@@ -26,7 +22,7 @@ html {
 }
 
 body {
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-size: 18px;
   font-weight: 300;
   background-color: var(--clr-blue-darkest);
@@ -99,3 +95,5 @@ p {
 .flow > * + * {
   margin-top: 1.5rem;
 }
+
+/*# sourceMappingURL=/styles.164d45a1.css.map */

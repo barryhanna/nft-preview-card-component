@@ -1,7 +1,6 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "dependencies": {},
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
@@ -20,6 +19,7 @@
   "description": "",
   "devDependencies": {
     "@parcel/transformer-sass": "latest",
-    "parcel": "latest"
+    "parcel": "latest",
+    "sass": "^1.43.4"
   }
 }
